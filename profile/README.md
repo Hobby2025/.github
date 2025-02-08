@@ -10,7 +10,9 @@
 ## 🤪 Project
 ### 1️⃣ image_splitter
 ![License](https://img.shields.io/badge/License-MIT-black)&nbsp;
-![Electron](https://img.shields.io/badge/Electron-2d2d2f?style=flat&logo=electron&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-2d2d2f?style=flat&logo=electron&logoColor=fff)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=fff)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=fff)&nbsp;
 ```
 image_splitter는 Electron을 사용한 이미지를 일정한 높이로 잘라주는 업무에 사용되는 툴입니다.
 ```
