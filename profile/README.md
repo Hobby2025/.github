@@ -40,7 +40,7 @@ Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여�
   <img src="https://contrib.rocks/image?repo=Hobby2025/Odeok-i"/>
 </a>
 
-<br><br>
+<br>
 
 ## 🤪 How to Contribute
 기여해주셔서 감사합니다! 다음은 기여하는 방법입니다!
