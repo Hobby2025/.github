@@ -88,5 +88,4 @@ git push origin feature-branch
   <img src="https://github.com/user-attachments/assets/bd9d8367-912e-4e2b-976a-1111d7857329" height="40">
   <img src="https://github.com/user-attachments/assets/bd9d8367-912e-4e2b-976a-1111d7857329" height="40">
   <img src="https://github.com/user-attachments/assets/bd9d8367-912e-4e2b-976a-1111d7857329" height="40">
-  <img src="https://github.com/user-attachments/assets/bd9d8367-912e-4e2b-976a-1111d7857329" height="40">
 </div>
