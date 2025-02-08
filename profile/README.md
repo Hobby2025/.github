@@ -30,12 +30,12 @@ Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여�
 ## 🤪 Contributor
 #### image_splitter
 <a href="https://github.com/Hobby2025/image_splitter/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Hobby2025/image_splitter"/>
+  <img src="https://contrib.rocks/image?repo=Hobby2025/image_splitter" height="40"/>
 </a>
 
 #### Odeok-i
 <a href="https://github.com/Hobby2025/Odeok-i/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Hobby2025/Odeok-i"/>
+  <img src="https://contrib.rocks/image?repo=Hobby2025/Odeok-i" height="40"/>
 </a>
 
 ## 🤪 How to Contribute
