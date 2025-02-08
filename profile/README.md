@@ -16,8 +16,6 @@ image_splitter는 Electron을 사용한 이미지를 일정한 높이로 잘라�
 ```
 👉 [repository](https://github.com/Hobby2025/image_splitter)
 
-<br>
-
 ### 2️⃣ Odeok-i
 ![License](https://img.shields.io/badge/License-MIT-black)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
@@ -26,8 +24,6 @@ image_splitter는 Electron을 사용한 이미지를 일정한 높이로 잘라�
 Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여주는 풀스텍 서비스 입니다.
 ```
 👉 [repository](https://github.com/Hobby2025/Odeok-i)
-
-<br>
 
 ## 🤪 Contributor
 #### image_splitter
@@ -40,8 +36,6 @@ Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여�
   <img src="https://contrib.rocks/image?repo=Hobby2025/Odeok-i"/>
 </a>
 
-<br>
-
 ## 🤪 How to Contribute
 기여해주셔서 감사합니다! 다음은 기여하는 방법입니다!
 
@@ -51,7 +45,7 @@ Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여�
 2. **포크한 저장소 클론하기**  
 포크한 저장소를 로컬로 클론하려면, 아래 명령어를 사용하세요:
 ```bash
-git clone https://github.com/사용자이름/image_splitter.git
+git clone https://github.com/사용자이름/프로젝트리포지토리.git
 ```
 
 3. **새로운 브랜치 생성하기**
