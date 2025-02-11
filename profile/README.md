@@ -27,6 +27,16 @@ Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여�
 ```
 👉 [repository](https://github.com/Hobby2025/Odeok-i)
 
+### 3️⃣ Contribase
+![License](https://img.shields.io/badge/License-MIT-black)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+```
+Contribase는 Next.js 및 Vercel Edge Functions 활용해 Github Repository의 기여도를 분석해 PDF로 제공하는 서비스 입니다.
+```
+👉 [repository](https://github.com/Hobby2025/Contribase)
+
 ## 🤪 Contributor
 #### image_splitter
 <a href="https://github.com/Hobby2025/image_splitter/graphs/contributors">
@@ -36,6 +46,11 @@ Odeok-i는 React 및 FastAPI를 활용해 웹툰에 대한 데이터를 보여�
 #### Odeok-i
 <a href="https://github.com/Hobby2025/Odeok-i/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hobby2025/Odeok-i" height="40"/>
+</a>
+
+#### Contribase
+<a href="https://github.com/Hobby2025/Contribase/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hobby2025/Contribase" height="40"/>
 </a>
 
 ## 🤪 How to Contribute
