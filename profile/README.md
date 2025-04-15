@@ -37,6 +37,16 @@ Contribase는 Next.js 및 Vercel Edge Functions 활용해 Github Repository의 �
 ```
 👉 [repository](https://github.com/Hobby2025/Contribase)
 
+### 4️⃣ please_readme
+![License](https://img.shields.io/badge/License-MIT-black)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+```
+Please_Readme는 Next.js 및 Github API를 활용해 유저의 Readme에 개시할 수 있는 카드를 제공하는 서비스 입니다.
+```
+👉 [repository](https://github.com/Hobby2025/please_readme)
+
 ## 🤪 Contributor
 #### image_splitter
 <a href="https://github.com/Hobby2025/image_splitter/graphs/contributors">
@@ -51,6 +61,11 @@ Contribase는 Next.js 및 Vercel Edge Functions 활용해 Github Repository의 �
 #### Contribase
 <a href="https://github.com/Hobby2025/Contribase/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hobby2025/Contribase" height="40"/>
+</a>
+
+#### Please_Readme
+<a href="https://github.com/Hobby2025/please_readme/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hobby2025/please_readme" height="40"/>
 </a>
 
 ## 🤪 How to Contribute
