@@ -47,6 +47,17 @@ Please_Readme는 Next.js 및 Github API를 활용해 유저의 Readme에 개시�
 ```
 👉 [repository](https://github.com/Hobby2025/please_readme)
 
+### 5️⃣ Recordify
+![License](https://img.shields.io/badge/License-MIT-black)&nbsp;
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+```
+Recordify는 회의록을 정리해주는 웹앱 서비스입니다.
+```
+👉 [repository](https://github.com/Hobby2025)
+
 ## 🤪 Contributor
 #### image_splitter
 <a href="https://github.com/Hobby2025/image_splitter/graphs/contributors">
@@ -66,6 +77,11 @@ Please_Readme는 Next.js 및 Github API를 활용해 유저의 Readme에 개시�
 #### Please_Readme
 <a href="https://github.com/Hobby2025/please_readme/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hobby2025/please_readme" height="40"/>
+</a>
+
+#### Recordify
+<a href="https://github.com/Hobby2025/Recordify/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hobby2025/Recordify" height="40"/>
 </a>
 
 ## 🤪 How to Contribute
